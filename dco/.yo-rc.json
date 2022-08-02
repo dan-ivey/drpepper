@@ -1,0 +1,6 @@
+{
+  "generator-banner": {
+    "bannerType": "DoubleClick",
+    "includeZepto": false
+  }
+}
