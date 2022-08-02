@@ -1,6 +1,10 @@
 {
   "generator-banner": {
-    "bannerType": "DoubleClick",
+    "bannerType": "DCM",
     "includeZepto": false
+  },
+  "generator-banner-th": {
+    "bannerType": "DCM",
+    "includeLottie": true
   }
 }
